@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Swapnil_Cod
+- 👋 Hi, I’m @Swapnil-Cod
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on IoT projects
